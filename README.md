@@ -33,7 +33,7 @@ O projeto foi desenvolvido na disciplina de Introdução à Ciência da Computa�
 ## Considerações
 - Cada usuário é formado por ID, nome, idade e saldo atual.
 - A interface do sistema é baseada em linha de comando, permitindo interações conforme descrito acima.
-
+- Existem melhorias referente à criação de variáveis criadas no escopo global. As modificações serão realizadas quando possível. 
 
 
 
